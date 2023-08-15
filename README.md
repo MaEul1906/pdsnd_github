@@ -5,7 +5,7 @@
 Udacity-bikeshare-project
 
 ### Description
-This project is part of the prerequiste to completing Udacity's Programming for Data Science with Python Nanodegree Program. The project involves using python to analyze bikeshare data from three cities (Chicago, New York City and Washington) in US. The dataset contains data for the first six months of 2017. For the analysis, Pandas Dataframe and Time module for time analysis were used.
+This project is part of the prerequiste to completing **Udacity's Programming for Data Science with Python Nanodegree Program**. The project involves using python to analyze bikeshare data from three cities (Chicago, New York City and Washington) in US. The dataset contains data for the first six months of 2017. For the analysis, Pandas Dataframe and Time module for time analysis were used.
 
 The following are questions that were answered through analysis of the data by prompting the user for choice input: A) Which city to analyse out of Chicago, New York city and Washington? B) What particular month to analyse from January to June? or All. C) What particular day of week to be analysed from Monday to Sunday? or All
 
